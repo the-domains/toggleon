@@ -1,0 +1,23 @@
+name: ToggleOn
+favicon: null
+layout_spectrum: 0.5821557373274118
+typography_spectrum: 0.21366571099497378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2539022157434374
+  lightness: 0.2991061194334179
+  saturation: 0.628912398358807
+  rhythmicContrast: 0.23876969050616026
+purpose: []
