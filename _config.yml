@@ -1,9 +1,7 @@
-favicon: null
 name: ToggleOn
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5
+typography_spectrum: 0.2136657109949738
 collections:
   - index:
       path: /
@@ -16,20 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.628912398358807
-  brandStrength: 0.2539022157434374
-  rhythmicContrast: 0.2387696905061603
-  brandColors: []
-  lightness: 0.2991061194334179
-typography_spectrum: 0.2136657109949738
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#66110e'
+    - '#d04a3e'
+    - '#6f6f6f'
+    - '#a2a2a2'
+  brandStrength: 0.5
+  lightness: 0.2991061194334179
+  saturation: 0.628912398358807
+  rhythmicContrast: 0.2387696905061603
+purpose: []
