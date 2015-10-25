@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ToggleOn]]></title>
         <description><![CDATA[ToggleOn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toggleon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 17:27:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 17:27:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toggleon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WE ARE TOGGLE ON]]></title>
+            <description><![CDATA[<h1>WE ARE TOGGLE ON</h1>]]></description>
+            <link>https://thegrid.ai/toggleon/we-are-toggle-on/index.html</link>
+            <guid isPermaLink="false">46e07651-68f9-4e0f-851f-ea3b9ac8e382</guid>
+            <pubDate>Sun, 25 Oct 2015 17:26:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[
 
@@ -17,7 +24,7 @@ OUR SERVICES
 OUR SERVICES
 
 </h1>]]></description>
-            <link>undefinedour-services/index.html</link>
+            <link>https://thegrid.ai/toggleon/our-services/index.html</link>
             <guid isPermaLink="false">27cf8ca4-8aa0-4b04-a0b2-d131d2a5a69d</guid>
             <pubDate>Sun, 25 Oct 2015 17:26:46 GMT</pubDate>
         </item>
