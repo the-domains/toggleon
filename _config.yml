@@ -1,6 +1,6 @@
 name: ToggleOn
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74
 typography_spectrum: 0.74923
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#6f6f6f'
     - '#a2a2a2'
   brandStrength: 1
-  lightness: 0.8125
+  lightness: 0
   saturation: 1
   rhythmicContrast: 1
 purpose: []
